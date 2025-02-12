@@ -1,0 +1,16 @@
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+tensorflow
+tensorflow-hub
+ultralytics
+opencv-contrib-python
+matplotlib
+torch
+torchvision
+pytesseract
+easyocr
+reportlab
+numpy
+scipy
